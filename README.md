@@ -1,6 +1,26 @@
-# fictional-winner
-Welcome to my Tic Tac Toe app! This app was built using the React framework and allows users to play a classic game of Tic Tac Toe against the computer. The app features a clean and intuitive interface, as well as responsive design for different screen sizes.
+# Tic-Tac-Toe
 
-Users can choose to play as X or O, and the app will keep track of their wins and losses. The app also includes a reset button, allowing users to start a new game at any time.
+A simple tic-tac-toe game built with React.
 
-I hope you enjoy playing this fun and simple game. Feel free to leave feedback or suggestions in the comments. Thank you for checking out my Tic Tac Toe app!
+## Demo
+
+You can try out the game at this URL: [https://tic-tac-toe.example.com](https://tic-tac-toe.example.com)
+
+## How to play
+
+- The game is played on a 3x3 grid
+- Player 1 is X and player 2 is O
+- Players take turns placing their symbol on the grid
+- The first player to get 3 of their symbols in a row (horizontally, vertically, or diagonally) wins the game
+- If all of the spaces on the grid are filled and no one has won, the game is a draw
+
+## Installation
+
+1. Clone this repository
+2. Run `npm install` to install the dependencies
+3. Run `npm start` to start the development server
+4. Open your browser to [http://localhost:3000](http://localhost:3000) to play the game
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](LICENSE) file for details.
