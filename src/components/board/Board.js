@@ -4,7 +4,7 @@ import './board.css';
 function Board() {
 	return (
 		<div className="container">
-			<div className='board x'>
+			<div className='board'>
         <Square />
 				<Square />
 				<Square />
